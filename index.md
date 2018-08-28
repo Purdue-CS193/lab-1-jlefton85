@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Josh Lefton's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,9 +21,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-- Another
-- Bulleted
-- List
+- It is easy
+- The TA's are nice
+- It meets once a week
 
 **Bold** and _Italic_ and `Code` text
 
